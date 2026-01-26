@@ -1,42 +1,11 @@
-Project Name: Grocery Store Management System
-
-Description:
-This project is a web-based grocery store application developed using PHP and MySQL. 
-It allows users to view products, place orders, and manage data through a database-driven backend.
-
-Technologies Used:
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL
-Server: XAMPP (Apache & MySQL)
-
-Steps to Run the Project:
-
-1. Install XAMPP on your system.
-2. Start Apache and MySQL from XAMPP Control Panel.
-3. Copy the project folder into:
-   C:\xampp\htdocs\
-4. Open a browser and go to:
-   http://localhost/phpmyadmin
-5. Create a database named:
-   grocery_store
-6. Import the file:
-   grocery_store.sql
-7. Open a browser and run the project:
-   http://localhost/grocery_shop
-
-Important Notes:
-- PHP is a server-side language and requires a local server to run.
-- The SQL file must be imported manually for database connectivity.
-- GIF or HTML files are for demonstration only and do not execute backend code.
-
-Author:
-Shilpa Maity
-
+Grocery Store Management System is a web-based application built with PHP and MySQL that allows users to browse products, place orders, and manage grocery store data through a database-driven backend. The project demonstrates full-stack development using HTML, CSS, JavaScript for the frontend and PHP with MySQL on a local XAMPP server.
 ## 📸 Screenshots
 
 ### Home pages
+<img width="1717" height="856" alt="Screenshot 2026-01-26 163628" src="https://github.com/user-attachments/assets/13da0f21-3e8b-4e09-9737-e526f941907d" />
+![ss1](https://github.com/user-attachments/assets/dbf42ddd-7a8d-4169-8771-e49f149bbff4)
 
+![ss](https://github.com/user-attachments/assets/38556d43-0cfb-46a4-9837-85a6e68d5322)
 
 ### Add to cart
 <img width="1253" height="860" alt="Screenshot 2025-12-06 122512" src="https://github.com/user-attachments/assets/1d2fc291-1dcd-4d48-ba43-d4962b7fd2ea" />
