@@ -3,8 +3,8 @@ Grocery Store Management System is a web-based application built with PHP and My
 
 ### Home pages
 <img width="1717" height="856" alt="Screenshot 2026-01-26 163628" src="https://github.com/user-attachments/assets/13da0f21-3e8b-4e09-9737-e526f941907d" />
-![ss1](https://github.com/user-attachments/assets/dbf42ddd-7a8d-4169-8771-e49f149bbff4)
-![ss](https://github.com/user-attachments/assets/38556d43-0cfb-46a4-9837-85a6e68d5322)
+![ss1](https://github.com/user-attachments/assets/fc8fa3b3-e0ca-4dc6-8694-c940a381b259)
+
 ### Add to cart
 <img width="1253" height="860" alt="Screenshot 2025-12-06 122512" src="https://github.com/user-attachments/assets/1d2fc291-1dcd-4d48-ba43-d4962b7fd2ea" />
 ### Payment
