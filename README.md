@@ -20,5 +20,5 @@ Grocery Store Management System is a web-based application built with PHP and My
 <img width="1614" height="820" alt="Screenshot 2025-12-06 123927" src="https://github.com/user-attachments/assets/2571839c-e831-4689-8afc-ad65573b0415" />
 ### Customer list
 <img width="1518" height="731" alt="Screenshot 2025-12-06 124047" src="https://github.com/user-attachments/assets/9c35a94b-7e22-44d3-959b-9df8eef4aa92" />
-### All prder
+### All order
 <img width="1505" height="829" alt="Screenshot 2025-12-06 123854" src="https://github.com/user-attachments/assets/223417af-da23-4055-8e22-30749b4d0d68" />
